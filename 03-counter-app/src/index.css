@@ -6,3 +6,10 @@ html,body {
     font-size: 1.3rem;
     padding: 50px;
 }
+
+button{
+    background-color: #F29441;
+    font-size: 1.3rem;
+    margin: 10px;
+    padding: 10px;
+}
